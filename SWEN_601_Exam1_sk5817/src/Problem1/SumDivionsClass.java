@@ -1,3 +1,8 @@
+/*
+Course : SWEN-601- Exam1
+Name : Sagar Kate
+email : sk5817@rit.edu
+ */
 package Problem1;
 
 import java.util.Scanner;
